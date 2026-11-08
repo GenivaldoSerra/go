@@ -9,5 +9,5 @@ func main() {
 	fmt.Println(true) // Bool
 
 	// Formatação de saída
-	fmt.Println("Hello, I'm %v and I'm an integer\n", 2)
+	fmt.Printf("Hello, I'm %v and I'm an integer\n", 2)
 }
