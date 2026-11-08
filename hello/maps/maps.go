@@ -1,7 +1,7 @@
 package main
 
 func main(){
-	funcinarios := map[string]string{
+	funcinarios := map[string]string {
 		"João": "Gerente",
 		"Maria": "Analista",
 		"Pedro": "Desenvolvedor",

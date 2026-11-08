@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func pointerFuncao(x *int) {
-	*a = 400
+	*x = 400
 }
 
 func main() {
